@@ -1,0 +1,13 @@
+{
+  "name": "java-script-orientado-a-objetos",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module", 
+  "main": "exemploApply.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
